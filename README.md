@@ -4,8 +4,8 @@ Dieses Repository dient der Materialsammlung für einen Basisvortrag zum Thema "
 
 ## Lizenzhinweis
 
-Für die Sammlung und Zusammenstellung der Daten in Vortragsform gilt uneingeschränkt die WTFPL (s. WTFPL.txt). Für die verwendeten Bilder, Grafiken und Töne gelten die jeweiligen Regelungen der Autoren, Designer usw.
+Für die Sammlung und Zusammenstellung der Daten in Vortragsform gilt uneingeschränkt die WTFPL (s. WTFPL.txt). Für die verwendeten Frameworks, Bilder, Grafiken und Töne gelten die jeweiligen Regelungen der Autoren, Designer usw.
 
-Im Zweifel aber: Copyright? GTFO
+Im Zweifel aber: Copyright? GTFO!
  
 -gb
